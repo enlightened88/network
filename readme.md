@@ -44,6 +44,7 @@ curl https://get.ignite.com/username/poststate-chain@latest! | sudo bash
 
 ## Learn more
 
+- [Ignite Blog](https://ignite.com/blog)
 - [Ignite CLI](https://ignite.com/cli)
 - [Tutorials](https://docs.ignite.com/guide)
 - [Ignite CLI docs](https://docs.ignite.com)
